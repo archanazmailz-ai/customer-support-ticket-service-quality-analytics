@@ -100,7 +100,7 @@ The dashboard provides an interactive view of support operations and helps ident
 
 ### 3. Agent Performance
 
-![Agent Performance](images/03-agent-performance.png)
+![Agent Performance](images/03-operations-agent-performance.png)
 
 ### 4. Ticket Insights
 
