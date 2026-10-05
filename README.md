@@ -88,6 +88,19 @@ The analysis was performed using Power BI to evaluate customer support performan
 
 The dashboard provides an interactive view of support operations and helps identify service bottlenecks and areas requiring operational attention.
 
+## Key Business Insights
 
-* Agent interactions
-* Country and location information
+* **Resolution SLA compliance is 80.9%**, lower than first-response SLA compliance of **87.9%**, indicating that delays are more significant during the resolution stage.
+* **Training Requests** show the weakest resolution performance, with **76.0% SLA compliance** and an average resolution time of **38.9 hours**.
+* **Pricing & Licensing** also shows weaker resolution performance, with **77.8% SLA compliance** and an average resolution time of **36.7 hours**.
+* **Product Setup** has a high volume of high-priority tickets and records the lowest customer satisfaction score at **3.4/5**.
+* The analysis highlights differences in workload, resolution performance, SLA compliance, and customer satisfaction across agents and support groups.
+
+## Business Recommendations
+
+* Review the resolution workflow to identify and reduce delays after the initial response.
+* Investigate Training Requests and Pricing & Licensing cases to identify process bottlenecks.
+* Improve Product Setup documentation, onboarding guidance, and self-service resources.
+* Monitor unresolved tickets and workload distribution across support groups and agents.
+* Strengthen knowledge-base and self-service content for frequently occurring customer issues.
+
