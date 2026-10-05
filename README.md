@@ -50,6 +50,44 @@ Key preparation steps included:
 * Preserved legitimate missing values associated with unresolved tickets.
 * Validated the data for negative durations and inconsistencies.
 
+## Analysis & Power BI Dashboard
+
+The analysis was performed using Power BI to evaluate customer support performance across four key areas:
+
+### 1. Executive Overview
+
+* Ticket volume and status distribution
+* Monthly ticket trends
+* Ticket priority and topic analysis
+* SLA compliance by priority
+* Customer satisfaction by priority
+
+### 2. SLA & Service Quality Analysis
+
+* First-response SLA compliance
+* Resolution SLA compliance
+* Average first-response time
+* Average resolution time
+* Customer satisfaction by support group
+
+### 3. Operations & Agent Performance
+
+* Daily ticket volume
+* Agent workload
+* Average resolution time by agent
+* First-response SLA compliance by agent
+* In-progress tickets by support group
+* Customer satisfaction by agent
+
+### 4. Ticket Insights & Root Cause Analysis
+
+* Ticket distribution by topic and priority
+* Resolution SLA compliance by topic
+* Average resolution time by topic
+* Customer satisfaction by topic
+
+The dashboard provides an interactive view of support operations and helps identify service bottlenecks and areas requiring operational attention.
+
 
 * Agent interactions
 * Country and location information
