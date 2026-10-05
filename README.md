@@ -28,5 +28,28 @@ Key information includes:
 * Ticket creation, response, resolution, and closing times
 * Expected and actual SLA performance
 * Customer satisfaction
+
+* ## Tools & Technologies
+
+* **Power BI** — Data modeling, DAX, interactive dashboards, and reporting
+* **Power Query** — Data cleaning and transformation
+* **DAX** — KPI and SLA performance calculations
+* **Excel** — Initial data review and validation
+
+## Data Preparation
+
+The dataset was prepared in Power Query before analysis.
+
+Key preparation steps included:
+
+* Verified unique Ticket IDs and checked for duplicate records.
+* Standardized column names and data types.
+* Converted date/time fields and duration fields to appropriate formats.
+* Created date and duration fields for response and resolution analysis.
+* Created calculated SLA status fields: **Within SLA** and **SLA Violated**.
+* Preserved legitimate missing values associated with unresolved tickets.
+* Validated the data for negative durations and inconsistencies.
+
+
 * Agent interactions
 * Country and location information
