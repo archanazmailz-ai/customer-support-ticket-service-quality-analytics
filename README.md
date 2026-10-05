@@ -88,6 +88,24 @@ The analysis was performed using Power BI to evaluate customer support performan
 
 The dashboard provides an interactive view of support operations and helps identify service bottlenecks and areas requiring operational attention.
 
+## 📊 Dashboard Preview
+
+### 1. Executive Overview
+
+![Executive Overview](images/01-executive-overview.png)
+
+### 2. SLA & Service Quality
+
+![SLA & Service Quality](images/02-sla-service-quality.png)
+
+### 3. Agent Performance
+
+![Agent Performance](images/03-agent-performance.png)
+
+### 4. Ticket Insights
+
+![Ticket Insights](images/04-ticket-insights.png)
+
 ## Key Business Insights
 
 * **Resolution SLA compliance is 80.9%**, lower than first-response SLA compliance of **87.9%**, indicating that delays are more significant during the resolution stage.
