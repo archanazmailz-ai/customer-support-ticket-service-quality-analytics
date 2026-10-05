@@ -104,3 +104,12 @@ The dashboard provides an interactive view of support operations and helps ident
 * Monitor unresolved tickets and workload distribution across support groups and agents.
 * Strengthen knowledge-base and self-service content for frequently occurring customer issues.
 
+## Project Outcome
+
+This project provides a structured view of customer support operations by combining ticket volume, SLA performance, resolution efficiency, workload distribution, and customer satisfaction analysis.
+
+The Power BI dashboard helps identify service bottlenecks, understand performance differences across support areas, and highlight opportunities for operational improvement.
+
+The project demonstrates the ability to transform raw support data into meaningful business insights and actionable recommendations using **Power BI, Power Query, and DAX**.
+
+
